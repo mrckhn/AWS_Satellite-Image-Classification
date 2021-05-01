@@ -26,4 +26,5 @@ $ cd MSBA6330-Road-Speed_ID
 
 Then, open the notebook Roadway_Speed_Identification.ipynb and follow the embedded instructions.
 
-## Additional Resources
+## Additional Resources  
+Our primary resource for this project is an extensive [AWS tutorial](https://github.com/aws-samples/aws-open-data-satellite-lidar-tutorial). We corrected bugs and stream-lined the process as well as enumerated on the business value of such a model.
