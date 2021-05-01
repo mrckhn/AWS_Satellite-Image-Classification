@@ -8,7 +8,8 @@ Demonstration of Road and Speed Identification from Satellite Images on AWS Sage
 Video:  
 Flyer: 
 
-## Project Summary
+## Project Summary  
+Satellite images are a rich data source that provide a lot of business value, although they are usually complex and expensive to process. Sagemaker provides a quick solution for building and training machine learning models on massive satellite image data. We will be showing an example of classifying roads found in satellite images for navigation software using AWS services including Sagemaker and S3.In the tutorial, we will explain the workflow of Sagemaker, show an end-to-end demo, and introduce the business values brought by this technique. 
 
 ## Setup Instructions
 **Create an AWS Sagemaker On-Demand Notebook Instance**  
