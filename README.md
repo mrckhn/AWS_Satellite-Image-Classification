@@ -7,8 +7,8 @@ Demonstration of Road and Speed Identification from Satellite Images on AWS Sage
 
 Project created based on AWS Tutorial...
 
-Video:
-Flyer:
+Video:  
+Flyer:  
 
 ## Setup Instructions
 
