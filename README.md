@@ -12,7 +12,7 @@ Flyer:
 
 ## Setup Instructions
 **Create an AWS Sagemaker On-Demand Notebook Instance**  
-The recommended instance size is at lease ml.t3.large to try out the code. If you would like to train your own version of the model, a GPU-enabled instance like a ml.p3.8xlarge is required. The satellite image dataset is very large, so the volume size of the instance should be at lest 60GB.
+The recommended instance size is at lease ml.t3.large to try out the code, although ml.m5.12xlarge is preferrable due to the amount of memory required to predict outputs for many images. If you would like to train your own version of the roadway and speed detection model, a GPU-enabled instance like a ml.p3.8xlarge is required. The satellite image dataset is very large, so the volume size of the instance should be at lest 60GB.
 
 **Clone the Repository**  
 After the instance is started, launch Jupyter Lab and then open a new terminal. Run the following commands to access a copy of the code and dependencies:
